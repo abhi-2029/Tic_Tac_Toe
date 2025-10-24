@@ -1,4 +1,4 @@
-# 🎮 3D Neon Tic Tac Toe
+# 🎮 3D Tic Tac Toe
 
 A **modern, AI-powered Tic Tac Toe** game built with **HTML, CSS, and JavaScript**, featuring a **3D neon-glass user interface**, smooth animations, and interactive celebrations for wins and ties.  
 This project combines **beautiful design** with **perfect AI logic** using the Minimax algorithm — making it unbeatable.
