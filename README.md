@@ -43,7 +43,7 @@ When it’s a draw, you’ll see:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/3d-neon-tic-tac-toe.git
+   git clone https://github.com/your-username/tic-tac-toe.git
 
 2. Navigate to the project folder
    cd 3d-neon-tic-tac-toe
